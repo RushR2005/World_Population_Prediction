@@ -8,6 +8,7 @@ The code is written in Python and uses the following libraries:
 - pandas
 - matplotlib
 - geopandas
+
 The code is easy to understand and can be easily modified to include other features, such as the ability to predict the population of different regions or cities.
 
 
